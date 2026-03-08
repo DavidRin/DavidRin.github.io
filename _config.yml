@@ -1,3 +1,11 @@
-theme: minima
-title: David Rin Website
-description: Meine erste GitHub Pages Website
+theme:  jekyll-theme-hacker
+
+title: David Rin Portfolio
+description: Meine GitHub Pages Website
+
+author: David Rin
+
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
