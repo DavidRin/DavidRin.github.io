@@ -6,7 +6,7 @@ title:  Servus
 
 # Servus
 
-Das istn icht  meine GitHub Pages Seite.
+Hier gibt es nicht zu sehen.
 
 ## Navigation
 - [Über mich](about.md)
