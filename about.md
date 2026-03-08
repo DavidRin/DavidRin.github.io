@@ -5,7 +5,7 @@ title: About
 
 # Über mich
 
-Hier steht etwas über mich.# Über mich
+Hier steht etwas...
 
 Ritter, Tod und Teufel.
 
