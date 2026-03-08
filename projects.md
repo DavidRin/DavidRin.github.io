@@ -1,7 +1,8 @@
 # Meine Projekte
 
-Hier ist ein kleines Codebeispiel:
+Hier ist ein kleines Python Beispiel:
 
 ```python
-def hello():
-    print("Hello World")
+for i in range(5):
+    print("Hallo Welt")
+```
