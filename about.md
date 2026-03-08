@@ -1,6 +1,8 @@
 # Über mich
 
-Ich lerne Webentwicklung mit GitHub Pages.
+Ritter, Tod und Teufel.
+
+![Ritter, Tod und Teufel von ALbrecht Dürer](images/meinbild.jpg)
 
 [Zur Startseite](index.md)
 [Meine Projekte](projects.md)
