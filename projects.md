@@ -1,10 +1,10 @@
 ---
 layout: default
-title: About
+title: Projekte
 ---
 # Meine Projekte
 
-Hier ist ein kleines Python Beispiel:
+Hier sind kleine Python, ein HTML und JS Beispiel:
 
 ```python
 for i in range(5):
