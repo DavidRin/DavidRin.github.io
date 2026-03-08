@@ -1,4 +1,11 @@
+---
+layout: default
+title: About
+---
+
 # Über mich
+
+Hier steht etwas über mich.# Über mich
 
 Ritter, Tod und Teufel.
 

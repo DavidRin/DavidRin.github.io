@@ -1,3 +1,7 @@
+---
+layout: default
+title: About
+---
 # Meine Projekte
 
 Hier ist ein kleines Python Beispiel:
