@@ -4,7 +4,7 @@ title: Projekte
 ---
 # Meine Projekte
 
-Hier sind ein Python, ein HTML und ein JS Beispiel:
+Hier sind ein Python, ein HTML und ein JS Beispiel::::
 
 ```python
 for i in range(5):
