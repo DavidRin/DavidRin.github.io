@@ -6,7 +6,7 @@ title:  Servus
 
 # Servus
 
-Hier gibt es nicht zu sehen.
+Hier gibt es nichts zu sehen.
 
 ## Navigation
 - [Über mich](about.md)
